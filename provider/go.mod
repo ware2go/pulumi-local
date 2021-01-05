@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/provider
+module github.com/ware2go/pulumi-local/provider
 
 go 1.15
 
