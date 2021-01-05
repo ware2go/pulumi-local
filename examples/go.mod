@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/examples
+module github.com/ware2go/pulumi-local/examples
 
 go 1.15
 
